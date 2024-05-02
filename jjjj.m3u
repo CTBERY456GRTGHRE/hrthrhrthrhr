@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:16,DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:120,Chérie 25 (1080p)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8?checkedby:iptvcat.com
